@@ -3,9 +3,8 @@ import { NavigationContainer } from '@react-navigation/native'
 
 import { createNativeStackNavigator } from '@react-navigation/native-stack'
 import DescriptionApp from '../screens/DescriptionApp'
-// import MainTab from './MainTab'
-import Home from '../screens/Home'
 import MainTab from './MainTab'
+
 
 const Stack = createNativeStackNavigator()
 
